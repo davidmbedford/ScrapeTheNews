@@ -207,3 +207,8 @@ textarea {
   position: relative;
   bottom: 10px;
 }
+
+.articleTitle {
+  font-weight: bolder;
+  font-size: 100%;
+}
